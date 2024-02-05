@@ -1,0 +1,4 @@
+# Application Active Type(prod, dev)
+spring:
+  profiles:
+    active: dev
